@@ -1,2 +1,2 @@
 # js_game
-这是用javaScript代码编写的小游戏
+这是用javaScript原生代码编写的贪吃蛇小游戏
